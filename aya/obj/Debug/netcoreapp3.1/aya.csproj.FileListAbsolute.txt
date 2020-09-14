@@ -1,0 +1,13 @@
+E:\aa uni\Programmieren\aya\aya\aya\bin\Debug\netcoreapp3.1\aya.exe
+E:\aa uni\Programmieren\aya\aya\aya\bin\Debug\netcoreapp3.1\aya.deps.json
+E:\aa uni\Programmieren\aya\aya\aya\bin\Debug\netcoreapp3.1\aya.runtimeconfig.json
+E:\aa uni\Programmieren\aya\aya\aya\bin\Debug\netcoreapp3.1\aya.runtimeconfig.dev.json
+E:\aa uni\Programmieren\aya\aya\aya\bin\Debug\netcoreapp3.1\aya.dll
+E:\aa uni\Programmieren\aya\aya\aya\bin\Debug\netcoreapp3.1\aya.pdb
+E:\aa uni\Programmieren\aya\aya\aya\obj\Debug\netcoreapp3.1\aya.csprojAssemblyReference.cache
+E:\aa uni\Programmieren\aya\aya\aya\obj\Debug\netcoreapp3.1\aya.AssemblyInfoInputs.cache
+E:\aa uni\Programmieren\aya\aya\aya\obj\Debug\netcoreapp3.1\aya.AssemblyInfo.cs
+E:\aa uni\Programmieren\aya\aya\aya\obj\Debug\netcoreapp3.1\aya.csproj.CoreCompileInputs.cache
+E:\aa uni\Programmieren\aya\aya\aya\obj\Debug\netcoreapp3.1\aya.dll
+E:\aa uni\Programmieren\aya\aya\aya\obj\Debug\netcoreapp3.1\aya.pdb
+E:\aa uni\Programmieren\aya\aya\aya\obj\Debug\netcoreapp3.1\aya.genruntimeconfig.cache
