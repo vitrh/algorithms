@@ -49,7 +49,7 @@ namespace aya
             }
 
             // For searched element not found in the list
-            return -1;
+            return  -1;
         }
     }
 }
