@@ -1,0 +1,13 @@
+E:\aa uni\Programmieren\aya\aya\MergeSort\MergeSort\bin\Debug\netcoreapp3.1\MergeSort.exe
+E:\aa uni\Programmieren\aya\aya\MergeSort\MergeSort\bin\Debug\netcoreapp3.1\MergeSort.deps.json
+E:\aa uni\Programmieren\aya\aya\MergeSort\MergeSort\bin\Debug\netcoreapp3.1\MergeSort.runtimeconfig.json
+E:\aa uni\Programmieren\aya\aya\MergeSort\MergeSort\bin\Debug\netcoreapp3.1\MergeSort.runtimeconfig.dev.json
+E:\aa uni\Programmieren\aya\aya\MergeSort\MergeSort\bin\Debug\netcoreapp3.1\MergeSort.dll
+E:\aa uni\Programmieren\aya\aya\MergeSort\MergeSort\bin\Debug\netcoreapp3.1\MergeSort.pdb
+E:\aa uni\Programmieren\aya\aya\MergeSort\MergeSort\obj\Debug\netcoreapp3.1\MergeSort.csprojAssemblyReference.cache
+E:\aa uni\Programmieren\aya\aya\MergeSort\MergeSort\obj\Debug\netcoreapp3.1\MergeSort.AssemblyInfoInputs.cache
+E:\aa uni\Programmieren\aya\aya\MergeSort\MergeSort\obj\Debug\netcoreapp3.1\MergeSort.AssemblyInfo.cs
+E:\aa uni\Programmieren\aya\aya\MergeSort\MergeSort\obj\Debug\netcoreapp3.1\MergeSort.csproj.CoreCompileInputs.cache
+E:\aa uni\Programmieren\aya\aya\MergeSort\MergeSort\obj\Debug\netcoreapp3.1\MergeSort.dll
+E:\aa uni\Programmieren\aya\aya\MergeSort\MergeSort\obj\Debug\netcoreapp3.1\MergeSort.pdb
+E:\aa uni\Programmieren\aya\aya\MergeSort\MergeSort\obj\Debug\netcoreapp3.1\MergeSort.genruntimeconfig.cache

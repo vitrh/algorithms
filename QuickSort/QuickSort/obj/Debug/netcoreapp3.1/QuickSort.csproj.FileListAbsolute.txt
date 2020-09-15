@@ -1,0 +1,13 @@
+E:\aa uni\Programmieren\aya\aya\QuickSort\QuickSort\bin\Debug\netcoreapp3.1\QuickSort.exe
+E:\aa uni\Programmieren\aya\aya\QuickSort\QuickSort\bin\Debug\netcoreapp3.1\QuickSort.deps.json
+E:\aa uni\Programmieren\aya\aya\QuickSort\QuickSort\bin\Debug\netcoreapp3.1\QuickSort.runtimeconfig.json
+E:\aa uni\Programmieren\aya\aya\QuickSort\QuickSort\bin\Debug\netcoreapp3.1\QuickSort.runtimeconfig.dev.json
+E:\aa uni\Programmieren\aya\aya\QuickSort\QuickSort\bin\Debug\netcoreapp3.1\QuickSort.dll
+E:\aa uni\Programmieren\aya\aya\QuickSort\QuickSort\bin\Debug\netcoreapp3.1\QuickSort.pdb
+E:\aa uni\Programmieren\aya\aya\QuickSort\QuickSort\obj\Debug\netcoreapp3.1\QuickSort.csprojAssemblyReference.cache
+E:\aa uni\Programmieren\aya\aya\QuickSort\QuickSort\obj\Debug\netcoreapp3.1\QuickSort.AssemblyInfoInputs.cache
+E:\aa uni\Programmieren\aya\aya\QuickSort\QuickSort\obj\Debug\netcoreapp3.1\QuickSort.AssemblyInfo.cs
+E:\aa uni\Programmieren\aya\aya\QuickSort\QuickSort\obj\Debug\netcoreapp3.1\QuickSort.csproj.CoreCompileInputs.cache
+E:\aa uni\Programmieren\aya\aya\QuickSort\QuickSort\obj\Debug\netcoreapp3.1\QuickSort.dll
+E:\aa uni\Programmieren\aya\aya\QuickSort\QuickSort\obj\Debug\netcoreapp3.1\QuickSort.pdb
+E:\aa uni\Programmieren\aya\aya\QuickSort\QuickSort\obj\Debug\netcoreapp3.1\QuickSort.genruntimeconfig.cache
