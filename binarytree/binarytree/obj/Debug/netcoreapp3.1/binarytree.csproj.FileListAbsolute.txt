@@ -1,0 +1,13 @@
+E:\aa uni\Programmieren\aya\aya\binarytree\binarytree\bin\Debug\netcoreapp3.1\binarytree.exe
+E:\aa uni\Programmieren\aya\aya\binarytree\binarytree\bin\Debug\netcoreapp3.1\binarytree.deps.json
+E:\aa uni\Programmieren\aya\aya\binarytree\binarytree\bin\Debug\netcoreapp3.1\binarytree.runtimeconfig.json
+E:\aa uni\Programmieren\aya\aya\binarytree\binarytree\bin\Debug\netcoreapp3.1\binarytree.runtimeconfig.dev.json
+E:\aa uni\Programmieren\aya\aya\binarytree\binarytree\bin\Debug\netcoreapp3.1\binarytree.dll
+E:\aa uni\Programmieren\aya\aya\binarytree\binarytree\bin\Debug\netcoreapp3.1\binarytree.pdb
+E:\aa uni\Programmieren\aya\aya\binarytree\binarytree\obj\Debug\netcoreapp3.1\binarytree.csprojAssemblyReference.cache
+E:\aa uni\Programmieren\aya\aya\binarytree\binarytree\obj\Debug\netcoreapp3.1\binarytree.AssemblyInfoInputs.cache
+E:\aa uni\Programmieren\aya\aya\binarytree\binarytree\obj\Debug\netcoreapp3.1\binarytree.AssemblyInfo.cs
+E:\aa uni\Programmieren\aya\aya\binarytree\binarytree\obj\Debug\netcoreapp3.1\binarytree.csproj.CoreCompileInputs.cache
+E:\aa uni\Programmieren\aya\aya\binarytree\binarytree\obj\Debug\netcoreapp3.1\binarytree.dll
+E:\aa uni\Programmieren\aya\aya\binarytree\binarytree\obj\Debug\netcoreapp3.1\binarytree.pdb
+E:\aa uni\Programmieren\aya\aya\binarytree\binarytree\obj\Debug\netcoreapp3.1\binarytree.genruntimeconfig.cache

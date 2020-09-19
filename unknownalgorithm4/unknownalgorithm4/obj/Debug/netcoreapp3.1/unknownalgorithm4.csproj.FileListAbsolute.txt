@@ -1,0 +1,13 @@
+E:\aa uni\Programmieren\aya\aya\unknownalgorithm4\unknownalgorithm4\bin\Debug\netcoreapp3.1\unknownalgorithm4.exe
+E:\aa uni\Programmieren\aya\aya\unknownalgorithm4\unknownalgorithm4\bin\Debug\netcoreapp3.1\unknownalgorithm4.deps.json
+E:\aa uni\Programmieren\aya\aya\unknownalgorithm4\unknownalgorithm4\bin\Debug\netcoreapp3.1\unknownalgorithm4.runtimeconfig.json
+E:\aa uni\Programmieren\aya\aya\unknownalgorithm4\unknownalgorithm4\bin\Debug\netcoreapp3.1\unknownalgorithm4.runtimeconfig.dev.json
+E:\aa uni\Programmieren\aya\aya\unknownalgorithm4\unknownalgorithm4\bin\Debug\netcoreapp3.1\unknownalgorithm4.dll
+E:\aa uni\Programmieren\aya\aya\unknownalgorithm4\unknownalgorithm4\bin\Debug\netcoreapp3.1\unknownalgorithm4.pdb
+E:\aa uni\Programmieren\aya\aya\unknownalgorithm4\unknownalgorithm4\obj\Debug\netcoreapp3.1\unknownalgorithm4.csprojAssemblyReference.cache
+E:\aa uni\Programmieren\aya\aya\unknownalgorithm4\unknownalgorithm4\obj\Debug\netcoreapp3.1\unknownalgorithm4.AssemblyInfoInputs.cache
+E:\aa uni\Programmieren\aya\aya\unknownalgorithm4\unknownalgorithm4\obj\Debug\netcoreapp3.1\unknownalgorithm4.AssemblyInfo.cs
+E:\aa uni\Programmieren\aya\aya\unknownalgorithm4\unknownalgorithm4\obj\Debug\netcoreapp3.1\unknownalgorithm4.csproj.CoreCompileInputs.cache
+E:\aa uni\Programmieren\aya\aya\unknownalgorithm4\unknownalgorithm4\obj\Debug\netcoreapp3.1\unknownalgorithm4.dll
+E:\aa uni\Programmieren\aya\aya\unknownalgorithm4\unknownalgorithm4\obj\Debug\netcoreapp3.1\unknownalgorithm4.pdb
+E:\aa uni\Programmieren\aya\aya\unknownalgorithm4\unknownalgorithm4\obj\Debug\netcoreapp3.1\unknownalgorithm4.genruntimeconfig.cache
