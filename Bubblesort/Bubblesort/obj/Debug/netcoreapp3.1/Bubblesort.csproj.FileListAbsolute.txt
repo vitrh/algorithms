@@ -1,0 +1,13 @@
+E:\aa uni\Programmieren\aya\aya\Bubblesort\Bubblesort\obj\Debug\netcoreapp3.1\Bubblesort.csprojAssemblyReference.cache
+E:\aa uni\Programmieren\aya\aya\Bubblesort\Bubblesort\obj\Debug\netcoreapp3.1\Bubblesort.AssemblyInfoInputs.cache
+E:\aa uni\Programmieren\aya\aya\Bubblesort\Bubblesort\obj\Debug\netcoreapp3.1\Bubblesort.AssemblyInfo.cs
+E:\aa uni\Programmieren\aya\aya\Bubblesort\Bubblesort\obj\Debug\netcoreapp3.1\Bubblesort.csproj.CoreCompileInputs.cache
+E:\aa uni\Programmieren\aya\aya\Bubblesort\Bubblesort\bin\Debug\netcoreapp3.1\Bubblesort.exe
+E:\aa uni\Programmieren\aya\aya\Bubblesort\Bubblesort\bin\Debug\netcoreapp3.1\Bubblesort.deps.json
+E:\aa uni\Programmieren\aya\aya\Bubblesort\Bubblesort\bin\Debug\netcoreapp3.1\Bubblesort.runtimeconfig.json
+E:\aa uni\Programmieren\aya\aya\Bubblesort\Bubblesort\bin\Debug\netcoreapp3.1\Bubblesort.runtimeconfig.dev.json
+E:\aa uni\Programmieren\aya\aya\Bubblesort\Bubblesort\bin\Debug\netcoreapp3.1\Bubblesort.dll
+E:\aa uni\Programmieren\aya\aya\Bubblesort\Bubblesort\bin\Debug\netcoreapp3.1\Bubblesort.pdb
+E:\aa uni\Programmieren\aya\aya\Bubblesort\Bubblesort\obj\Debug\netcoreapp3.1\Bubblesort.dll
+E:\aa uni\Programmieren\aya\aya\Bubblesort\Bubblesort\obj\Debug\netcoreapp3.1\Bubblesort.pdb
+E:\aa uni\Programmieren\aya\aya\Bubblesort\Bubblesort\obj\Debug\netcoreapp3.1\Bubblesort.genruntimeconfig.cache
